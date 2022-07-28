@@ -7345,6 +7345,7 @@ fieldset:disabled .btn {
   margin-right: 3rem !important;
   margin-left: 3rem !important;
 }
+
 .mx-auto {
   margin-right: auto !important;
   margin-left: auto !important;
@@ -7793,6 +7794,15 @@ fieldset:disabled .btn {
 .bg-custom-blue {
   background-color: #0078aa;
 }
+.bg-custom-dark-blue {
+  background-color: #0c0628;
+}
+.text-custom-light-blue{
+  color: #ECECF1;
+}
+/* custom margin */
+
+
 
 /*******************/
 .bg-primary {
@@ -9247,6 +9257,7 @@ fieldset:disabled .btn {
   .mb-lg-auto {
     margin-bottom: auto !important;
   }
+  
   .ms-lg-0 {
     margin-left: 0 !important;
   }
