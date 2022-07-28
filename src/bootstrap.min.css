@@ -7797,12 +7797,25 @@ fieldset:disabled .btn {
 .bg-custom-dark-blue {
   background-color: #0c0628;
 }
-.text-custom-light-blue{
-  color: #ECECF1;
+.bg-custom-main {
+  background-color: #0f1629;
+}
+.bg-custom-container {
+  background-color: #182032;
+}
+.text-custom-light-blue {
+  color: #ececf1;
+}
+.text-custom-blue {
+  color: #0078aa;
+}
+.text-custom-light-ocean-blue {
+  color: #39bdf8;
+}
+.custom-border-color {
+  border-color: #7f8487;
 }
 /* custom margin */
-
-
 
 /*******************/
 .bg-primary {
@@ -9257,7 +9270,7 @@ fieldset:disabled .btn {
   .mb-lg-auto {
     margin-bottom: auto !important;
   }
-  
+
   .ms-lg-0 {
     margin-left: 0 !important;
   }
